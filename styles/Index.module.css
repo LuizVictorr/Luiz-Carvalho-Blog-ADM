@@ -1,0 +1,30 @@
+.container {
+    background-color: #191824;
+    color: #E4E7F8 
+}
+
+.block {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+} 
+
+.button {
+    background-color: #0070f3;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.newPost {
+    padding: 20px;
+}
+
+.newPost h1 {
+    padding-bottom: 20px;
+}
